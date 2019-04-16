@@ -18,3 +18,10 @@ en los que comunmente se requiere que el fotografo presente una muestra de las f
 <td><a href="https://github.com/juanpablocamejo/ShutterLync-frontend">github.com/juanpablocamejo/ShutterLync-frontend</a></td>
     <td>Angular, Typescript, Angular Material</td>
   </tr></table>
+<h4>Prueba de concepto</h4>
+<table>
+  <tr><td>Presentación del proyecto (documento)</td><td>https://docs.google.com/document/d/1X5DHs_UudmRgziGXFLVms5_L34uMAYssMfS4Ll3Z9O8/edit#</td></tr>
+ <tr>
+  <td>Presentación del proyecto (diapositivas) </td><td><a href="https://docs.google.com/presentation/d/1TcWrT5-i4MnpIcmHnE1z_X1frCRRfCyEjb5vlcDHuNQ/edit?usp=sharing">https://docs.google.com/presentation/d/1TcWrT5-i4MnpIcmHnE1z_X1frCRRfCyEjb5vlcDHuNQ/edit?usp=sharing</a></td></tr>
+<tr><td>Explicación de Arquitectura</td><td>https://docs.google.com/document/d/13gljhmCgCkEP3HVEE-RuTr16B1kyO5ztQw4n6WX9ADs/edit#heading=h.cco6kvpqn9ei</td></tr>
+</table>
