@@ -33,3 +33,17 @@ en los que comunmente se requiere que el fotografo presente una muestra de las f
   <td>https://docs.google.com/document/d/13gljhmCgCkEP3HVEE-RuTr16B1kyO5ztQw4n6WX9ADs/edit?usp=sharing</td>
  </tr>
 </table>
+<h4>Entrega 1</h4>
+<table>
+ <tr>
+    <td>Casos de uso</td>
+    <td>https://docs.google.com/document/d/1NVOw662TxVCTX0jhUQvpLRzCkbD1MtIqoltcgf2Nk-Q/edit?usp=sharing</td>
+  </tr>
+</table>
+<h4>Entrega 2</h4>
+<table>
+ <tr>
+    <td>Casos de uso</td>
+    <td>https://docs.google.com/document/d/1V2179_g5hMpTTwF4ToGswQJEl_3-r5norzBPcUCgCzc/edit?usp=sharing</td>
+  </tr>
+</table>
