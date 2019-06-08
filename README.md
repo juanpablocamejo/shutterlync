@@ -47,3 +47,10 @@ en los que comunmente se requiere que el fotografo presente una muestra de las f
     <td>https://docs.google.com/document/d/1V2179_g5hMpTTwF4ToGswQJEl_3-r5norzBPcUCgCzc/edit?usp=sharing</td>
   </tr>
 </table>
+<h4>Entrega 3</h4>
+<table>
+ <tr>
+    <td>Casos de uso</td>
+    <td>https://docs.google.com/document/d/1jaSYQ35CVJDsm3aIOkWPl4yq08Won_JvBVYHw3RMd5I/edit?usp=sharing</td>
+  </tr>
+</table>
