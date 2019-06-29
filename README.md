@@ -44,7 +44,7 @@ en los que comunmente se requiere que el fotografo presente una muestra de las f
 <table>
  <tr>
     <td>Casos de uso</td>
-    <td>https://docs.google.com/document/d/1V2179_g5hMpTTwF4ToGswQJEl_3-r5norzBPcUCgCzc/edit?usp=sharing</td>
+    <td>https://docs.google.com/document/d/151Q1X4DMGZyPgE3sFosyEqEHKrDC_3y07oXfgfxTCuw/edit?usp=sharing</td>
   </tr>
 </table>
 <h4>Entrega 3</h4>
