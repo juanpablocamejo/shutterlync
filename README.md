@@ -33,7 +33,7 @@ en los que comunmente se requiere que el fotografo presente una muestra de las f
   <td>https://docs.google.com/document/d/13gljhmCgCkEP3HVEE-RuTr16B1kyO5ztQw4n6WX9ADs/edit?usp=sharing</td>
  </tr>
   <tr><td>Modelo de datos</td>
-    <td></td>
+    <td>https://drive.google.com/file/d/1cT8kLuQ4vl2y9t21rdGY-s-7_N2g14S6/view?usp=sharing</td>
   </tr>
   <tr><td>Circuito</td>
     <td>https://docs.google.com/document/d/1rADfnE3aFyPCRS3hSOR54EBJcScfiD-occxXPZV5Cyw/edit?usp=sharing
